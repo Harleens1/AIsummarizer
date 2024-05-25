@@ -1,2 +1,2 @@
 # AIsummarizer
-Article summarizer using ChatGPT
+Article summarizer using ChatGPT api 
